@@ -1,6 +1,6 @@
 [![Woolimi's github stats](https://github-readme-stats.vercel.app/api?username=woolimi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woolimi&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woolimi&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **woolimi/woolimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
