@@ -1,6 +1,6 @@
 # All of me
 
-[woolimi.github.io(under construction)](https://woolimi.github.io)
+[woolimi.github.io](https://woolimi.github.io)
 
 <!--
 [![Woolimi's github stats](https://github-readme-stats.vercel.app/api?username=woolimi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
