@@ -21,7 +21,6 @@ Mechanical engineering at Inha University → [École 42](https://42.fr) Paris �
 | [physical-ai-from-scratch](https://github.com/woolimi/physical-ai-from-scratch) | Project-based self-study curriculum for Physical AI, from the perceptron to VLA on a real robot ([map](https://woolimi.github.io/physical-ai-from-scratch/)) |
 | [print-part-design](https://github.com/woolimi/print-part-design) | Claude Code skill: browser design viewer, design checks and print tidy for 3D-printed parts made in code |
 | [bambu-3mf](https://github.com/woolimi/bambu-3mf) | Claude Code skill: ready-to-print Bambu Studio projects (.3mf) for the P2S, built with the Studio CLI |
-| [openarm_ws](https://github.com/woolimi/openarm_ws) | Feetech leader arm teleoperation and MoveIt workspace for OpenArm v1.0 |
 | [rosmon](https://github.com/woolimi/rosmon) | ROS2 topology graph web app: nodes, topics, services and actions |
 | [ft_transcendence](https://github.com/woolimi/ft_transcendence) | Real-time online Pong with chat, guilds, ranking and tournaments (Rails, Backbone.js, PostgreSQL) |
 
