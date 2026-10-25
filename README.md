@@ -1,6 +1,6 @@
 # Woolim Park
 
-Robotics software developer at [PinkLAB](https://pinklab.art), Seoul. I build the ROS2 platform for a mobile bimanual robot, from arm control to imitation learning on real hardware.
+Robotics software developer at [PinkLAB](https://pinklab.art), Anyang. I build the ROS2 platform for a mobile bimanual robot, from arm control to imitation learning on real hardware.
 
 Mechanical engineering at Inha University → [École 42](https://42.fr) Paris → five years of web development in Paris → robots.
 
@@ -36,7 +36,7 @@ Mechanical engineering at Inha University → [École 42](https://42.fr) Paris �
 
 | Period | |
 | --- | --- |
-| 2026.06 – | Robotics Software Developer (Intern), **PinkLAB**, Seoul |
+| 2026.06 – | Robotics Software Developer (Intern), **PinkLAB**, Anyang |
 | 2025.12 – 2026.06 | Physical AI Engineer Training Course, VLA imitation learning on real robots, **Addinedu** |
 | 2021.05 – 2025.08 | Frontend Developer, **Luko → Allianz Direct France**, Paris |
 | 2020.11 – 2021.05 | Backend Developer, **École 42**, Paris |
