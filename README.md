@@ -20,7 +20,6 @@ Mechanical engineering at Inha University → [École 42](https://42.fr) Paris �
 | --- | --- |
 | [robotics-roadmap](https://github.com/woolimi/robotics-roadmap) | Open-source self-study curriculum for robotics developers: 56 lessons on a prerequisite map, from math and control to robot learning and VLA, each closed by an interview-style quiz ([map](https://woolimi.github.io/robotics-roadmap/)) |
 | [bambu-3mf](https://github.com/woolimi/bambu-3mf) | Claude Code skill: ready-to-print Bambu Studio projects (.3mf) for the P2S, built with the Studio CLI |
-| [ft_transcendence](https://github.com/woolimi/ft_transcendence) | Real-time online Pong with chat, guilds, ranking and tournaments (Rails, Backbone.js, PostgreSQL) |
 
 ## Tech stack
 
